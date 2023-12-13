@@ -5,16 +5,17 @@
         <group>
             <file>file:/C:/Users/Admin/Documents/NetBeansProjects/DAPTTKHT/src/Model/Promotion.java</file>
             <file>file:/C:/Users/Admin/Documents/NetBeansProjects/DAPTTKHT/src/Model/Drink.java</file>
-            <file>file:/C:/Users/Admin/Documents/NetBeansProjects/DAPTTKHT/src/Model/InvoiceDetailsXuatHuy.java</file>
+            <file>file:/C:/Users/Admin/Documents/NetBeansProjects/DAPTTKHT/src/Controller/IngredientControl.java</file>
             <file>file:/C:/Users/Admin/Documents/NetBeansProjects/DAPTTKHT/src/Model/Invoice.java</file>
+            <file>file:/C:/Users/Admin/Documents/NetBeansProjects/DAPTTKHT/src/Model/OrderDetails.java</file>
             <file>file:/C:/Users/Admin/Documents/NetBeansProjects/DAPTTKHT/src/View/SalesManagement.java</file>
-            <file>file:/C:/Users/Admin/Documents/NetBeansProjects/DAPTTKHT/src/Controller/DrinkControl.java</file>
             <file>file:/C:/Users/Admin/Documents/NetBeansProjects/DAPTTKHT/src/Model/InvoiceDetailsTL.java</file>
+            <file>file:/C:/Users/Admin/Documents/NetBeansProjects/DAPTTKHT/src/View/OrderBill.java</file>
             <file>file:/C:/Users/Admin/Documents/NetBeansProjects/DAPTTKHT/src/Model/InvoiceDetailsNhap.java</file>
             <file>file:/C:/Users/Admin/Documents/NetBeansProjects/DAPTTKHT/src/Controller/EmployeeControl.java</file>
             <file>file:/C:/Users/Admin/Documents/NetBeansProjects/DAPTTKHT/src/Model/Account.java</file>
             <file>file:/C:/Users/Admin/Documents/NetBeansProjects/DAPTTKHT/src/Model/IngredientDetails.java</file>
-            <file>file:/C:/Users/Admin/Documents/NetBeansProjects/DAPTTKHT/src/dapttkht/DAPTTKHT.java</file>
+            <file>file:/C:/Users/Admin/Documents/NetBeansProjects/DAPTTKHT/src/Controller/OrderControl.java</file>
             <file>file:/C:/Users/Admin/Documents/NetBeansProjects/DAPTTKHT/src/Model/Ingredient.java</file>
             <file>file:/C:/Users/Admin/Documents/NetBeansProjects/DAPTTKHT/src/View/StorageManegement.java</file>
             <file>file:/C:/Users/Admin/Documents/NetBeansProjects/DAPTTKHT/src/Controller/InvoiceControl.java</file>
